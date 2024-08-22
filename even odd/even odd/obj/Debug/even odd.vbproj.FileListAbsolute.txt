@@ -1,0 +1,10 @@
+D:\mrunali vb.net\even odd\even odd\bin\Debug\even odd.exe.config
+D:\mrunali vb.net\even odd\even odd\bin\Debug\even odd.exe
+D:\mrunali vb.net\even odd\even odd\bin\Debug\even odd.pdb
+D:\mrunali vb.net\even odd\even odd\bin\Debug\even odd.xml
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even_odd.Form1.resources
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even_odd.Resources.resources
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even odd.vbproj.GenerateResource.Cache
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even odd.exe
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even odd.xml
+D:\mrunali vb.net\even odd\even odd\obj\Debug\even odd.pdb

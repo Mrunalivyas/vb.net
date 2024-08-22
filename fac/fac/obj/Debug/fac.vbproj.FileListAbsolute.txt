@@ -1,0 +1,10 @@
+D:\mrunali vb.net\fac\fac\bin\Debug\fac.exe.config
+D:\mrunali vb.net\fac\fac\bin\Debug\fac.exe
+D:\mrunali vb.net\fac\fac\bin\Debug\fac.pdb
+D:\mrunali vb.net\fac\fac\bin\Debug\fac.xml
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.Form1.resources
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.Resources.resources
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.vbproj.GenerateResource.Cache
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.exe
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.xml
+D:\mrunali vb.net\fac\fac\obj\Debug\fac.pdb
