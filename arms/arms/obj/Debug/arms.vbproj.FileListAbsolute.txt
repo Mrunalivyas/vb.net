@@ -1,0 +1,11 @@
+D:\mrunali vb.net\arms\arms\bin\Debug\arms.exe.config
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\bin\Debug\arms.exe.config
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\bin\Debug\arms.exe
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\bin\Debug\arms.pdb
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\bin\Debug\arms.xml
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.Form1.resources
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.Resources.resources
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.vbproj.GenerateResource.Cache
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.exe
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.xml
+D:\b.Tech\ssvps\mrunali vb.net\arms\arms\obj\Debug\arms.pdb

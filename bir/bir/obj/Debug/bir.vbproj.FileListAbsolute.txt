@@ -1,0 +1,14 @@
+D:\mrunali vb.net\bir\bir\bin\Debug\bir.exe.config
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.Form1.resources
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.Resources.resources
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.vbproj.GenerateResource.Cache
+D:\mrunali vb.net\bir\bir\bin\Debug\bir.exe
+D:\mrunali vb.net\bir\bir\bin\Debug\bir.pdb
+D:\mrunali vb.net\bir\bir\bin\Debug\bir.xml
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.exe
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.xml
+D:\mrunali vb.net\bir\bir\obj\Debug\bir.pdb
+D:\b.Tech\ssvps\mrunali vb.net\bir\bir\bin\Debug\bir.exe.config
+D:\b.Tech\ssvps\mrunali vb.net\bir\bir\obj\Debug\bir.exe
+D:\b.Tech\ssvps\mrunali vb.net\bir\bir\obj\Debug\bir.xml
+D:\b.Tech\ssvps\mrunali vb.net\bir\bir\obj\Debug\bir.pdb
